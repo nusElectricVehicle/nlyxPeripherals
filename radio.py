@@ -1,3 +1,7 @@
+'''
+By LynxDigital
+
+'''
 from pygame import mixer  # Load the popular external library
 
 mixer.init()
