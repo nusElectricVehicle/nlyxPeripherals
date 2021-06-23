@@ -1,7 +1,10 @@
 import cv2
 import numpy as np
-import utlis
- 
+import utlis 
+
+#Numpy is used as an efficient multi-dimensional container of generic data. Arbitrary data-types can be defined.
+#Utils is broken up into broad swathes of functionality, to ease the task of remembering where exactly something lives.
+
 curveList = []
 avgVal=10
 car_tracker_file = "car_detector.xml"
